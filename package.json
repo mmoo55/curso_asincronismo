@@ -1,0 +1,24 @@
+{
+  "name": "cursoasincronismo",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmoo55/curso_asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Gerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmoo55/curso_asincronismo/issues"
+  },
+  "homepage": "https://github.com/mmoo55/curso_asincronismo#readme"
+}
