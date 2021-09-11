@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mmoo55/curso_asincronismo/issues"
   },
-  "homepage": "https://github.com/mmoo55/curso_asincronismo#readme"
+  "homepage": "https://github.com/mmoo55/curso_asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
