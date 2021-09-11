@@ -8,7 +8,6 @@ function calc(num1, num2, callback) {
 
 console.log(calc(6, 2, sum));
 
-
 function date(callback) {
     console.log(new Date);
     setTimeout(function () {
